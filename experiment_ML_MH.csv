@@ -1,0 +1,5 @@
+model,library,data,mae,r2,elapsed_time
+RandomForestRegressor,optuna,Diabetes,18.26176750878234,0.9183876704482746,126.4209520816803
+GradientBoostingRegressor,optuna,Diabetes,66.44815382516512,0.0,82.48159170150757
+XGBRegressor,optuna,Diabetes,66.44815357413576,-8.881784197001252e-16,29.197978019714355
+RandomForestRegressor,optuna,California Housing,0.23053996290698445,0.921165649185477,19987.126475334167
